@@ -10,7 +10,7 @@
     --icon-color: #AFB1B8;
     --footer-icon-color: rgba(255, 255, 255, 0.1);
     --cubic-bezier: cubic-bezier(0.4, 0, 0.2, 1);
-    --transformationt-time: 1250ms;
+    --transformationt-time: 250ms;
 }
 html {
 	box-sizing: border-box;
